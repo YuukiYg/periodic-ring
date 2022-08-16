@@ -1,5 +1,8 @@
 # periodic-ring
 
-## Prepare
-`pip install playsound`
+## Preparing
+`pip install playsound`  
 `pip3 install PyObjC`
+
+## Usage
+`python3 ring.py period(sec)`
