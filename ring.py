@@ -13,7 +13,7 @@ if __name__ == '__main__':
             print('Argument must be an integer: ' + args[1])
             sys.exit()
     else:
-        print('Usage: python ring.py second')
+        print('Usage: python ring.py period(sec)')
         print('  Ex) python ring.py 10')
         sys.exit()
 
